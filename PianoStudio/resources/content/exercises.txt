@@ -1,0 +1,113 @@
+Exercises and References
+	Below are exercises for my students, organized by topic.
+At the very bottom are exercises for the highest skill levels. If you do those well in a category, you've mastered that category!
+	Notes<br/>
+[I] <a href='http://www.musictheory.net/exercises/note/dg1g1yryyyy'>By Letter: Treble and Bass</a><br/>
+[II] <a href='http://www.musictheory.net/exercises/note/bg1yryyyy'>By Letter: Treble</a><br/>
+[III] <a href='http://www.musictheory.net/exercises/note/ng1yryyyy'>By Letter: Bass</a><br/>
+[IV] <a href='http://www.musictheory.net/exercises/keyboard-reverse/dg1g1yryyyy'>By Keyboard: Treble and Bass</a><br/>
+[V] <a href='http://www.musictheory.net/exercises/keyboard-reverse/bg1yryyyy'>By Keyboard: Treble</a><br/>
+[VI] <a href='http://www.musictheory.net/exercises/keyboard-reverse/ng1yryyyy'>By Keyboard: Bass</a><br/>
+[VII] <a href='http://www.musictheory.net/exercises/note/dnsnsyryyyy'>By Letter: Treble and Bass, Extended</a><br/>
+[VIII] <a href='http://www.musictheory.net/exercises/note/bnsyryyyy'>By Letter: Treble, Extended</a><br/>
+[IX] <a href='http://www.musictheory.net/exercises/note/nnsyryyyy'>By Letter: Bass, Extended</a><br/>
+[X] <a href='http://www.musictheory.net/exercises/keyboard-reverse/dnsnsyryyyy'>By Keyboard: Treble and Bass, Extended</a><br/>
+[XI] <a href='http://www.musictheory.net/exercises/keyboard-reverse/bnsyryyyy'>By Keyboard: Treble, Extended</a><br/>
+[XII] <a href='http://www.musictheory.net/exercises/keyboard-reverse/nnsyryyyy'>By Keyboard: Bass, Extended</a><br/>
+[XIII] <a href='http://www.musictheory.net/exercises/note/d16ygyryyyy'>By Letter: Treble and Bass, Furthest</a><br/>
+[XIV] <a href='http://www.musictheory.net/exercises/note/b16yryyyy'>By Letter: Treble, Furthest</a><br/>
+[XV] <a href='http://www.musictheory.net/exercises/note/nygyryyyy'>By Letter: Bass, Furthest</a><br/>
+[XVI] <a href='http://www.musictheory.net/exercises/keyboard-reverse/d16ygyryyyy'>By Keyboard: Treble and Bass, Furthest</a><br/>
+[XVII] <a href='http://www.musictheory.net/exercises/keyboard-reverse/b16yryyyy'>By Keyboard: Treble, Furthest</a><br/>
+[XVIII] <a href='http://www.musictheory.net/exercises/keyboard-reverse/nygyryyyy'>By Keyboard: Bass, Furthest</a><br/>
+	Key Signatures<br/>
+[I] <a href='http://www.musictheory.net/exercises/keysig/do9byyy'>Easy</a><br/>
+[II] <a href='http://www.musictheory.net/exercises/keysig/do9bbyy'>Easy, Minor</a><br/>
+[III] <a href='http://www.musictheory.net/exercises/keysig/dh98yyy'>Medium</a><br/>
+[IV] <a href='http://www.musictheory.net/exercises/keysig/dh98byy'>Medium, Minor</a><br/>
+[V] <a href='http://www.musictheory.net/exercises/keysig/d999yyy'>Hard</a><br/>
+[VI] <a href='http://www.musictheory.net/exercises/keysig/d999byy'>Hard, Minor</a><br/>
+	Intervals<br/>
+[I] <a href='http://www.musictheory.net/exercises/generic-interval/dg1yry9dy'>Generic: Basic</a><br/>
+[II] <a href='http://www.musictheory.net/exercises/generic-interval/dyayry9dy'>Generic: Extended</a><br/>
+[III] <a href='http://www.musictheory.net/exercises/generic-interval/dy6yry9dy'>Generic: Furthest</a><br/>
+[IV] <a href='http://www.musictheory.net/exercises/interval/dnsyryyh98yyy'>Specific: Perfects and Majors Basic</a><br/>
+[V] <a href='http://www.musictheory.net/exercises/interval/dnsyry99999yy'>Specific: Diminished and Augmented Basic</a><br/>
+[VI] <a href='http://www.musictheory.net/exercises/interval/dnsyryyh98yny'>Specific: Perfects and Majors With Accidentals</a><br/>
+[VII] <a href='http://www.musictheory.net/exercises/interval/dnsyry99999ny'>Specific: Diminished and Augmented With Accidentals</a><br/>
+[VIII] <a href='http://www.musictheory.net/exercises/interval/dns999yh98yyy'>Specific: Perfects and Majors With Key Signatures</a><br/>
+[IX] <a href='http://www.musictheory.net/exercises/interval/dns99999999yy'>Specific: Diminished and Augmented With Key Signatures</a><br/>
+[X] <a href='http://www.musictheory.net/exercises/interval/dns999yh98yry'>Specific: Perfects and Majors With Everything</a><br/>
+[XI] <a href='http://www.musictheory.net/exercises/interval/dns99999999ry'>Specific: Diminished and Augmented With Everything</a><br/>
+	Chords<br/>
+[I] <a href='http://www.musictheory.net/exercises/chord/dnsyryxyyyy'>Triads: Basic</a><br/>
+[II] <a href='http://www.musictheory.net/exercises/chord/dnsyryxybyy'>Triads: With Inversions</a><br/>
+[III] <a href='http://www.musictheory.net/exercises/chord/dnsyryxybny'>Triads: With Accidentals </a><br/>
+[IV] <a href='http://www.musictheory.net/exercises/chord/dns999xybyy'>Triads: With Key Signatures</a><br/>
+[V] <a href='http://www.musictheory.net/exercises/chord/dns999xybry'>Triads: With Everything</a><br/>
+[VI] <a href='http://www.musictheory.net/exercises/chord/dnsyryoxyyy'>Seventh Chords: Basic</a><br/>
+[VII] <a href='http://www.musictheory.net/exercises/chord/dnsyryoxbyy'>Seventh Chords: With Inversions</a><br/>
+[VIII] <a href='http://www.musictheory.net/exercises/chord/dnsyryoxbny'>Seventh Chords: With Accidentals </a><br/>
+[IX] <a href='http://www.musictheory.net/exercises/chord/dns999oxbyy'>Seventh Chords: With Key Signatures</a><br/>
+[X] <a href='http://www.musictheory.net/exercises/chord/dns999oxbry'>Seventh Chords: With Everything</a><br/>
+	Interval Ear Training<br/>
+[I] <a href='http://www.musictheory.net/exercises/ear-interval/wigbnbygney'>Perfects and Majors: Broken Up</a><br/>
+[II] <a href='http://www.musictheory.net/exercises/ear-interval/wigbnbyr1sy'>Perfects and Majors: Broken Up, Extended</a><br/>
+[III] <a href='http://www.musictheory.net/exercises/ear-interval/998bnbygney'>Includes Minors and Tritone: Broken Up</a><br/>
+[IV] <a href='http://www.musictheory.net/exercises/ear-interval/998bnbyr1sy'>Includes Minors and Tritone: Broken Up, Extended</a><br/>
+[V] <a href='http://www.musictheory.net/exercises/ear-interval/wignnbygney'>Perfects and Majors: Broken Down</a><br/>
+[VI] <a href='http://www.musictheory.net/exercises/ear-interval/wignnbyr1sy'>Perfects and Majors: Broken Down, Extended</a><br/>
+[VII] <a href='http://www.musictheory.net/exercises/ear-interval/998nnbygney'>Includes Minors and Tritone: Broken Down</a><br/>
+[VIII] <a href='http://www.musictheory.net/exercises/ear-interval/998nnbyr1sy'>Includes Minors and Tritone: Broken Down, Extended</a><br/>
+[IX] <a href='http://www.musictheory.net/exercises/ear-interval/wigrnbygney'>Perfects and Majors: Together</a><br/>
+[X] <a href='http://www.musictheory.net/exercises/ear-interval/wigrnbyr1sy'>Perfects and Majors: Together, Extended</a><br/>
+[XI] <a href='http://www.musictheory.net/exercises/ear-interval/998rnbygney'>Includes Minors and Tritone: Together</a><br/>
+[XII] <a href='http://www.musictheory.net/exercises/ear-interval/998rnbyr1sy'>Includes Minors and Tritone: Together, Extended</a><br/>
+	Chord Ear Training<br/>
+Triads:<br/>
+[I] <a href='http://www.musictheory.net/exercises/ear-chord/xyyynnbygney'>Triads: Broken Up</a><br/>
+[II] <a href='http://www.musictheory.net/exercises/ear-chord/xyyynnbyr1sy'>Triads: Broken Up, Extended</a><br/>
+[III] <a href='http://www.musictheory.net/exercises/ear-chord/xyybnnbygney'>Triads: With Inversions, Broken Up</a><br/>
+[IV] <a href='http://www.musictheory.net/exercises/ear-chord/xyybnnbyr1sy'>Triads: With Inversions, Broken Up, Extended</a><br/>
+[V] <a href='http://www.musictheory.net/exercises/ear-chord/xyyyrnbygney'>Triads: Broken Down</a><br/>
+[VI] <a href='http://www.musictheory.net/exercises/ear-chord/xyyyrnbyr1sy'>Triads: Broken Down, Extended</a><br/>
+[VII] <a href='http://www.musictheory.net/exercises/ear-chord/xyybrnbygney'>Triads: With Inversions, Broken Down</a><br/>
+[VIII] <a href='http://www.musictheory.net/exercises/ear-chord/xyybrnbyr1sy'>Triads: With Inversions, Broken Down, Extended</a><br/>
+[IX] <a href='http://www.musictheory.net/exercises/ear-chord/xyyybnbygney'>Triads: Together</a><br/>
+[X] <a href='http://www.musictheory.net/exercises/ear-chord/xyyybnbyr1sy'>Triads: Together, Extended</a><br/>
+[XI] <a href='http://www.musictheory.net/exercises/ear-chord/xyybbnbygney'>Triads: With Inversions, Together</a><br/>
+[XII] <a href='http://www.musictheory.net/exercises/ear-chord/xyybbnbyr1sy'>Triads: With Inversions, Together, Extended</a><br/>
+Seventh Chords:<br/>
+[I] <a href='http://www.musictheory.net/exercises/ear-chord/o9dynnbygney'>Seventh Chords: Broken Up</a><br/>
+[II] <a href='http://www.musictheory.net/exercises/ear-chord/o9dynnbyr1sy'>Seventh Chords: Broken Up, Extended</a><br/>
+[III] <a href='http://www.musictheory.net/exercises/ear-chord/o9dbnnbygney'>Seventh Chords: With Inversions, Broken Up</a><br/>
+[IV] <a href='http://www.musictheory.net/exercises/ear-chord/o9dbnnbyr1sy'>Seventh Chords: With Inversions, Broken Up, Extended</a><br/>
+[V] <a href='http://www.musictheory.net/exercises/ear-chord/o9dyrnbygney'>Seventh Chords: Broken Down</a><br/>
+[VI] <a href='http://www.musictheory.net/exercises/ear-chord/o9dyrnbyr1sy'>Seventh Chords: Broken Down, Extended</a><br/>
+[VII] <a href='http://www.musictheory.net/exercises/ear-chord/o9dbrnbygney'>Seventh Chords: With Inversions, Broken Down</a><br/>
+[VIII] <a href='http://www.musictheory.net/exercises/ear-chord/o9dbrnbyr1sy'>Seventh Chords: With Inversions, Broken Down, Extended</a><br/>
+[IX] <a href='http://www.musictheory.net/exercises/ear-chord/o9dybnbygney'>Seventh Chords: Together</a><br/>
+[X] <a href='http://www.musictheory.net/exercises/ear-chord/o9dybnbyr1sy'>Seventh Chords: Together, Extended</a><br/>
+[XI] <a href='http://www.musictheory.net/exercises/ear-chord/o9dbbnbygney'>Seventh Chords: With Inversions, Together</a><br/>
+[XII] <a href='http://www.musictheory.net/exercises/ear-chord/o9dbbnbyr1sy'>Seventh Chords: With Inversions, Together, Extended</a><br/>
+	Scale Ear Training<br/>
+[I] <a href='http://www.musictheory.net/exercises/ear-scale/xyybnbygney'>Majors and Minors: Up</a><br/>
+[II] <a href='http://www.musictheory.net/exercises/ear-scale/xyynnbygney'>Majors and Minors: Down</a><br/>
+[III] <a href='http://www.musictheory.net/exercises/ear-scale/xyydnbyr1sy'>Majors and Minors: Either, Extended</a><br/>
+[IV] <a href='http://www.musictheory.net/exercises/ear-scale/o9bbnbygney'>Modal Scales: Up</a><br/>
+[V] <a href='http://www.musictheory.net/exercises/ear-scale/o9bnnbygney'>Modal Scales: Down</a><br/>
+[VI] <a href='http://www.musictheory.net/exercises/ear-scale/o9bdnbyr1sy'>Modal Scales: Either, Extended</a><br/>
+[VII] <a href='http://www.musictheory.net/exercises/ear-scale/yy6bnbygney'>Atypical Scales: Up</a><br/>
+[VIII] <a href='http://www.musictheory.net/exercises/ear-scale/yy6nnbygney'>Atypical Scales: Down</a><br/>
+[IX] <a href='http://www.musictheory.net/exercises/ear-scale/yy6dnbyr1sy'>Atypical Scales: Either, Extended</a><br/>
+[X] <a href='http://www.musictheory.net/exercises/ear-scale/999bnbygney'>Any Scale: Up</a><br/>
+[XI] <a href='http://www.musictheory.net/exercises/ear-scale/999nnbygney'>Any Scale: Down</a><br/>
+[XII] <a href='http://www.musictheory.net/exercises/ear-scale/999dnbyr1sy'>Any Scale: Either, Extended</a><br/>
+	Mastery Series<br/>
+<a href='http://www.musictheory.net/exercises/keyboard-reverse/d16yg999byy'>Notes</a><br/>
+<a href='http://www.musictheory.net/exercises/keysig/d999byy'>Key Signatures</a><br/>
+<a href='http://www.musictheory.net/exercises/interval/dy699999999ry'>Intervals</a><br/>
+<a href='http://www.musictheory.net/exercises/chord/dy69999xbry'>Chords</a><br/>
+<a href='http://www.musictheory.net/exercises/ear-interval/6988rbyr1sy'>Interval Ear Training</a><br/>
+<a href='http://www.musictheory.net/exercises/ear-chord/99db8rbyr1sy'>Chord Ear Training</a><br/>
+<a href='http://www.musictheory.net/exercises/ear-scale/999drbyr1sy'>Scale Ear Training</a><br/>

@@ -1,0 +1,7 @@
+Performances;Performances;performances
+Pricing;Lesson Types and Pricing;giftcards
+Policy;Studio Policies;studiopolicy
+Benefits;The Benefits of Piano Lessons;sales
+Exercises;Student Exercises;exercises
+Biography;About Me;bio
+Contact;Contact and Studio Location;contact

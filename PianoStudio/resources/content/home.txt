@@ -1,0 +1,6 @@
+Studio Home Page
+	Hello!
+	<div class='gallery' id='gallery-left'></div>
+<div class='gallery' id='gallery-right'></div>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/et9Uyv_aXcg" frameborder="0" allowfullscreen></iframe>
+	@<script src="../gallery.js"></script>

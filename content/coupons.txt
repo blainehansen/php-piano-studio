@@ -1,0 +1,15 @@
+Holiday Special
+	The first month of lessons is half price when you buy from this page. These are limit one per student, so if you're
+looking to buy more than one month of lessons for a loved one or for yourself, please visit my 
+<a href='../GiftCards'>Lesson Gift Card</a> page. Information about these lessons and what type would be most appropriate for you can also be found on that page.
+	<div class="buy product"><input type="hidden" class="product-title" value="Half Off One Month Minor Lessons"><input type="hidden" class="product-price" 
+value="30.00"><div class="googlecart-add-button" tabindex="0" role="button" title="Add to cart"></div></div>
+<span class='important'><b>Minor Lesson:</b> 30 minutes. $15. (One month half off: $30)</span></br>
+	<div class="buy product"><input type="hidden" class="product-title" value="Half Off One Month Major Lessons"><input type="hidden" class="product-price" 
+value="45.00"><div class="googlecart-add-button" tabindex="0" role="button" title="Add to cart"></div></div>
+<span class='important'><b>Major Lesson:</b> 45 minutes. $22.50. (One month half off: $45)</span></br>
+	<div class="buy product"><input type="hidden" class="product-title" value="Half Off One Month Augmented Lessons"><input type="hidden" class="product-price" 
+value="60.00"><div class="googlecart-add-button" tabindex="0" role="button" title="Add to cart"></div></div>
+<span class='important'><b>Augmented Lesson:</b> 60 minutes. $30. (One month half off: $60)</span></br>
+	@<script  id='googlecart-script' type='text/javascript' src='https://checkout.google.com/seller/gsc/v2_2/cart.js?mid=841266169394083' integration='jscart-
+wizard' post-cart-to-sandbox='false' currency='USD' productWeightUnits='LB'></script>
